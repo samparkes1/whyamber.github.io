@@ -1,0 +1,214 @@
+body{
+	margin: 0px;
+}
+h1{
+	margin: 0px;
+}
+
+#piclogo{
+	position: relative;
+	top: 300px;
+
+}
+.font{
+	font-family: "Lucida Console", cursive, sans-serif;
+}
+body{ background-color: gray;}
+@media only screen and (max-width: 600px){
+	body{
+		background-color: red;
+	}
+}
+#logo{
+	background-color: gray;
+	text-align: center;
+	position: relative;
+	padding: 0px;
+	margin: 0px;
+	height: 100vh;
+}
+#pass{
+	text-align: center;
+	position: relative;
+	top: 500px;
+	left; 500px;
+	font-size: 100px;
+}
+#albumbutton{
+	position: relative;
+	top: 20px;
+	left: 900px;
+	float: left;
+	background-color: cyan;
+	border: none;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 4px;
+	
+}
+#albumbutton:hover{
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#CreateAlbum{
+	height: 100vh;
+	background-color: gray;
+	
+}
+
+#TwoD{
+	background-color: cyan;
+	text-align: center;
+	margin: 0px;
+	height: 660px;
+}
+#TwoDPic{
+	position: relative;
+	top: 30px;
+	left: 850px;
+}
+#TwoDInfo{
+	
+	font-size: 35px;
+	position: relative;
+	top: -350px;
+	left: -500px;
+	
+}
+#TwoDName
+{
+	position:relative;
+	left: -700px;
+	top: -350px;
+}
+
+#Murdoc{
+	background-color: gray;
+	text-align: center;
+	margin: 0px;
+	height: 800px;
+}
+#MurdocPic{
+	position: relative;
+	left: -450px;
+}
+#MurdocInfo
+{
+	font-size: 35px;
+	position: relative;
+	top: -400px;
+	left: 500px;
+}
+#MurdocName{
+	position: relative;
+	top: -440px;
+	left: 250px;
+}
+
+#Noodle{
+	background-color: cyan;
+	text-align: center;
+	margin: 0px;
+	height: 660px;
+}
+#NoodlePic{
+	position: relative;
+	top: 30px;
+	left: 850px;
+}
+#NoodleInfo{
+	
+	font-size: 35px;
+	position: relative;
+	top: -350px;
+	left: -500px;
+	
+}
+#NoodleName
+{
+	position:relative;
+	left: -750px;
+	top: -350px;
+}
+
+#Russel{
+	background-color: gray;
+	text-align: center;
+	margin: 0px;
+	height: 770px;
+}#RusselPic{
+	position: relative;
+	left: -450px;
+}
+#RusselInfo
+{
+	font-size: 35px;
+	position: relative;
+	top: -400px;
+	left: 500px;
+}
+#RusselName{
+	position: relative;
+	top: -440px;
+	left: 250px;
+}
+#music{
+	height: 100vh;
+	background-color: cyan;
+	width: 1920px;
+}
+#AlbumCovers{
+	position: relative;
+	height:254px;
+	width: 1400px;
+	top: 200px;
+	left: 200px;
+
+}
+#PlasticBeach{
+	position: relative;
+	left: 600px;
+
+}
+#DemonDays{
+	position:relative;
+	left:300px;
+
+
+}
+#NowNowAlbum{
+	position: relative;
+	width: 300px;
+	left:170px;
+	top:225px;
+	margin: 1px;
+	float: left;
+
+}
+
+
+	
+#DemonDaysAlbum
+{
+	position: relative;
+	left: 425px;
+	top: 225px;
+	width: 300px;
+	margin: 1px;
+	float: left;
+
+}
+
+#PlasticBeachAlbum{
+	position:relative;
+	left: 675px;
+	top: 225px;
+	width: 300px;
+	margin: 1px;
+	float: left;
+}
+
+
